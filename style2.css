@@ -2,32 +2,37 @@
   #logo1{
     display: none;
   }
+
   .container{
     width: 100%;
     margin-left: -50%;
   }
+
   .navbar{
     height: 75px;
   }
+
   .align-top{
     width:30px;
     height:30px;
   }
+
   .container{
     width:80%;
     font-size:15px;
-
   }
+
   #phrase{
     display:none;
   }
+
   #sherry{
     font-size: 2.5em;
     width:250px;
     margin-right:-50%;
     margin-top:30%;
-
   }
+
   .rounded{
     width:100% !important;
     height:50%;
@@ -36,43 +41,52 @@
     margin-left: -3%;
     margin-top: 1%;
   }
+
   .section2{
     display:grid;
   }
+
   .part1{
     width:100%;
     font-size:1.5em;
     height: 75px;
     text-align: center;
   }
+
   .part2{
     width: 100%;
     text-align: center;
     font-size: 1.3em;
     height: 400px;
   }
+
   .lead{
     font-size: 15px;
     text-align: left;
     margin-left: 1%;
   }
+
   .featurette-heading{
     font-size: 18px;
     margin-left: 3%
     text-align: center;
     margin-left: 1%;
   }
+
   #portfolio{
     font-size:24px;
   }
+
   #FunToGo{
     font-size: 16px;
     text-align: left;
     margin-left: 1%;
   }
+
   .icons{
     font-size: 14px;
   }
+
 }
 
 
@@ -81,51 +95,64 @@
     font-size: 15px;
     height:500px;
   }
+
   .part1{
     font-size: 15px;
     width: 100%;
   }
+
   .part2 h4{
     width: 100%;
     margin-left: -1em;
     height: 20px;
   }
+
   .rounded{
     width:300px;
   }
+
   .container{
     width: 50%;
     height: 100px;
   }
+
   .navbar-brand{
     display: none;
   }
+
   #sherry{
     width: 200px;
     margin-left: -3em;
     margin-top: 30%;
     font-size: 30px;
   }
+
   .navbar{
     height:75px;
   }
+
   #portfolio{
     font-size:25px;
   }
+
   .featurette-heading{
     font-size: 18px;
     margin-left: 3%
   }
+
   .lead{
     font-size: 15px;
     text-align: center;
   }
+
   #FunToGo{
     font-size: 14px;
     text-align: center;
     margin-left: 13%;
   }
+
   .icons{
     font-size: 12px;
   }
+  
 }
